@@ -1,0 +1,23 @@
+msgid "Aurora AI Settings"
+msgstr "Impostazioni di Aurora AI"
+
+msgid "Aurora AI"
+msgstr "Aurora AI"
+
+msgid "Live"
+msgstr "Attivo"
+
+msgid "Open Aurora AI Dashboard"
+msgstr "Apri la dashboard di Aurora AI"
+
+msgid "Open the Aurora AI Dashboard to configure your chatbot settings and manage interactions."
+msgstr "Apri la dashboard di Aurora AI per configurare le impostazioni del chatbot e gestire le interazioni."
+
+msgid "Main Settings"
+msgstr "Impostazioni principali"
+
+msgid "Chatbot ID"
+msgstr "ID del Chatbot"
+
+msgid "Enter your Aurora AI Chatbot ID here (e.g., cm153fp4s000an8oychij82q3). You can find this ID in the Aurora AI Dashboard after configuring your chatbot."
+msgstr "Inserisci qui l'ID del tuo Chatbot Aurora AI (es: cm153fp4s000an8oychij82q3). Puoi trovare questo ID nella dashboard di Aurora AI dopo aver configurato il tuo chatbot."
